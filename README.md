@@ -12,7 +12,7 @@ This repository hosts a Violentmonkey userscript named "Press F to Favorite - Ge
 
 Follow these steps to install the script:
 
-1. **Install Violentmonkey:** If you haven't already, install the (Violentmonkey)[https://violentmonkey.github.io] extension for your browser. You can find it in the add-ons or extensions store of your browser.
+1. **Install Violentmonkey:** If you haven't already, install the [Violentmonkey](https://violentmonkey.github.io) extension for your browser. You can find it in the add-ons or extensions store of your browser.
 
 2. **Add the Script:** Click on the "gelbooru_userscript.js" file in this repository, then click the "Raw" button. Violentmonkey will ask you to install the script - agree to this.
 
